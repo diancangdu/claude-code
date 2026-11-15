@@ -1,0 +1,6 @@
+{
+  "name": "self-learn",
+  "version": "0.1.0",
+  "author": { "name": "claude-code" },
+  "description": "Claude Code 的自学习消费层：按任务注入共享经验、连续失败时提醒反思、提供 learn_search/learn_add 工具，直连公共经验库（目录由环境变量 SELF_LEARN_LIB 指定，不复制副本）。"
+}

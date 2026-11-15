@@ -1,0 +1,3 @@
+# 引擎运行产物（插件加载时自动生成）
+.claude-plugin/types/
+tsconfig.json
